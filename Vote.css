@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Biden {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+
+.Trump {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+
+H1 {
+    text-align: center;
+    margin: 20px;
+}
+
+H2 {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(120deg, #abb6e6, #1e5ee9);
+    min-height: 100vh;
+}
+
+p {
+    padding: 10px;
+    margin: 5px;
+}
+
+input {
+    padding: 5px;
+}
